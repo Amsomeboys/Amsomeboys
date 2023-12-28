@@ -1,11 +1,11 @@
 
 # Jirapat Phosoi
-AKA = "Amsomeboys"
 
 ## 🚀 About Me
-I'm a comsci student at Kasetsart University kamphaeng Saen Campus
+--  I'm a comsci student at Kasetsart University kamphaeng Saen Campus
 
+## 🛠  Programming Languages Skills
+--  C ,C++ ,C# ,Java ,Python ,Javascript ,Typescript ,Matlab ,SQL 
 
-## 🛠 Skills
-C++ ,Java ,Mysql ,Python ,Matlab ,HTML
-
+##  Markup Languages
+--  HTML5,CSS
